@@ -1,0 +1,7 @@
+img{
+    filter: hue-rotate(33.turn);
+}
+.main{
+    width: 100vw;
+    height: 100vh;
+}
